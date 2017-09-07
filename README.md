@@ -1,2 +1,2 @@
 # JavaScript-Game-1
-Also called the Pig Game
+A fun JavaScript Game to enjoy with friends
